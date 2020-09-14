@@ -1,0 +1,12 @@
+{
+    "LambdaFunctionConfigurations": [
+        {
+            "Id": "8758638565",
+            "LambdaFunctionArn": "arn:aws:lambda:us-east-1:000000000000:function:prints3content2",
+            "Events":[
+                "s3:ObjectCreated:*"
+            ]
+        }
+    ]
+
+}
